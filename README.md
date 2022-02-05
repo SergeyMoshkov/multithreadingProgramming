@@ -1,1 +1,1 @@
-# Multithreading Programming
+# Multithreading Programming in Go
